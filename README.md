@@ -34,8 +34,8 @@ fabricate/
 | `data/` | Data mentah dan hasil pemrosesan data | Tim Data Science (Varel) |
 | `data_science/` | Analisis, perbandingan model, dasbor Streamlit, dan data yang dipakainya (dataset bersih, foto nota, kamus data) | Tim Data Science (Shava) |
 | `ai/` | Model yang dipakai aplikasi, API model, draf caption | Tim AI |
-| `web/frontend/` | Halaman dan tampilan yang dilihat pengguna | Tim Full-Stack |
-| `web/backend/` | Server, basis data, dan penghubung ke model | Tim Full-Stack |
+| `web/frontend/` | Halaman dan tampilan yang dilihat pengguna | Tim Full-Stack (Caroline) |
+| `web/backend/` | Server, basis data, dan penghubung ke model | Tim Full-Stack (Farkhan) |
 
 ## 👥 Tim dan Pembagian Tugas
 
