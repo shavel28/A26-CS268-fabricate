@@ -48,7 +48,14 @@ Menyiapkan data dan menggali informasi dari data pesanan: apa yang bisa dipelaja
 
 #### 👩‍💻 Shava: Analisis dan Pemodelan
 Yang dikerjakan:
--
+- Merumuskan pertanyaan bisnis dan menganalisis 24 nota asli: lama pengerjaan tiap produk, pengaruh jumlah pesanan, produk terlaris, dan hari antrean padat.
+- Menemukan bahwa pesanan 15 pcs ke bawah rata-rata selesai dalam 10 hari dan pesanan di atas 15 pcs dalam 13 hari.
+- Membandingkan 4 model dengan Leave-One-Out CV. Hasil terbaik: median per ukuran pesanan (MAE 1,81 hari), lalu median per produk (1,98), Random Forest (2,16), dan Regresi Linear (2,52).
+- Membuat model saran tenggat (`model_estimasi.joblib`) yang diserahkan ke tim Full-Stack untuk dipasang di aplikasi.
+- Membuat dasbor Streamlit: indikator, grafik, antrean, saran tenggat, filter, dan unggah CSV.
+- Menyusun kamus data dan panduan menjalankan kode (`data_science/README.md`).
+- Data asli diutamakan; data dummy hanya untuk uji kode dan selalu diberi label.
+- Keterbatasan: nota asli baru 24, sehingga hasil perlu dikonfirmasi dengan nota baru.
 
 #### 🧑‍💻 Varel: Pemrosesan Data
 Yang dikerjakan:
