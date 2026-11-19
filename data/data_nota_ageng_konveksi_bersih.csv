@@ -1,0 +1,309 @@
+no,nama_produk,kategori,jumlah,harga_satuan,total_harga,tanggal_pesan,tanggal_selesai,jenis_tanggal_selesai,status,lama_hari,sumber_data
+1,Set OR,Kaos,42,75000,3150000,8/18/2026,9/2/2026,Aktual,Selesai,15,Asli
+2,Set OR,Kaos,20,75000,1500000,8/20/2026,9/3/2026,Aktual,Selesai,14,Asli
+3,Atasan,Jersey,11,85000,935000,8/25/2026,9/5/2026,Aktual,Selesai,11,Asli
+4,Atasan,Jersey,8,85000,680000,8/30/2026,9/7/2026,Aktual,Selesai,8,Asli
+5,Set OR,Kaos,20,55000,1100000,8/30/2026,9/10/2026,Aktual,Selesai,11,Asli
+6,Atasan,Jersey,7,85000,595000,9/1/2026,9/10/2026,Aktual,Selesai,9,Asli
+7,Atasan Polo,Kaos Lacoste,10,85000,850000,9/2/2026,9/12/2026,Aktual,Selesai,10,Asli
+8,Celana OR,Kaos,14,40000,560000,9/5/2026,9/14/2026,Aktual,Selesai,9,Asli
+9,Atasan Voli,Jersey,11,85000,935000,9/6/2026,9/16/2026,Aktual,Selesai,10,Asli
+10,Atasan Polo,Kaos Lacoste,12,85000,1020000,9/13/2026,9/23/2026,Aktual,Selesai,10,Asli
+11,Atasan Polo,Jersey,19,90000,1710000,9/16/2026,9/26/2026,Aktual,Selesai,10,Asli
+12,Celana,Kaos,21,40000,840000,9/20/2026,9/30/2026,Aktual,Selesai,10,Asli
+13,Atasan Polo,Jersey,21,90000,1890000,9/25/2026,10/5/2026,Aktual,Selesai,10,Asli
+14,Atasan,Jersey,26,85000,2210000,9/28/2026,10/13/2026,Aktual,Selesai,15,Asli
+15,Atasan,Jersey,23,85000,1955000,9/29/2026,10/15/2026,Aktual,Selesai,16,Asli
+16,Celana,Kaos,18,40000,720000,9/30/2026,10/16/2026,Aktual,Selesai,16,Asli
+17,Atasan,Jersey,1,85000,85000,9/30/2026,10/6/2026,Aktual,Selesai,6,Asli
+18,Celana,Kaos,16,40000,640000,10/5/2026,10/18/2026,Aktual,Selesai,13,Asli
+19,Celana,Kaos,29,40000,1160000,10/7/2026,10/19/2026,Aktual,Selesai,12,Asli
+20,Daster,Katun,2,55000,110000,10/8/2026,10/20/2026,Aktual,Selesai,12,Asli
+21,Atasan Basket,Jersey,12,85000,1020000,10/10/2026,10/22/2026,Aktual,Selesai,12,Asli
+22,Celana,Kaos,25,40000,1000000,10/12/2026,10/24/2026,Aktual,Selesai,12,Asli
+23,Atasan,Jersey,109,85000,9265000,10/15/2026,10/28/2026,Aktual,Selesai,13,Asli
+24,Gamis,Katun,2,120000,240000,10/16/2026,10/29/2026,Aktual,Selesai,13,Asli
+25,Atasan Polo,Kaos Lacoste,36,85000,3060000,5/4/2026,5/14/2026,Aktual,Selesai,10,Dummy
+26,Set OR,Kaos,21,65000,1365000,5/4/2026,5/10/2026,Aktual,Selesai,6,Dummy
+27,Atasan,Jersey,13,85000,1105000,5/5/2026,5/15/2026,Aktual,Selesai,10,Dummy
+28,Celana,Kaos,6,40000,240000,5/5/2026,5/11/2026,Aktual,Selesai,6,Dummy
+29,Atasan,Jersey,17,85000,1445000,5/6/2026,5/17/2026,Aktual,Selesai,11,Dummy
+30,Atasan Voli,Jersey,5,85000,425000,5/8/2026,5/16/2026,Aktual,Selesai,8,Dummy
+31,Set OR,Kaos,29,75000,2175000,5/9/2026,5/18/2026,Aktual,Selesai,9,Dummy
+32,Atasan Polo,Kaos Lacoste,18,85000,1530000,5/10/2026,5/22/2026,Aktual,Selesai,12,Dummy
+33,Celana,Kaos,9,40000,360000,5/10/2026,5/14/2026,Aktual,Selesai,4,Dummy
+34,Set OR,Kaos,20,55000,1100000,5/11/2026,5/19/2026,Aktual,Selesai,8,Dummy
+35,Atasan,Jersey,12,85000,1020000,5/12/2026,5/16/2026,Aktual,Selesai,4,Dummy
+36,Set OR,Kaos,24,75000,1800000,5/12/2026,5/16/2026,Aktual,Selesai,4,Dummy
+37,Celana OR,Kaos,20,40000,800000,5/12/2026,5/17/2026,Aktual,Selesai,5,Dummy
+38,Celana,Kaos,8,40000,320000,5/15/2026,5/19/2026,Aktual,Selesai,4,Dummy
+39,Atasan Polo,Kaos Lacoste,34,85000,2890000,5/15/2026,5/27/2026,Aktual,Selesai,12,Dummy
+40,Atasan Basket,Jersey,19,85000,1615000,5/16/2026,5/27/2026,Aktual,Selesai,11,Dummy
+41,Atasan Basket,Jersey,9,85000,765000,5/17/2026,5/22/2026,Aktual,Selesai,5,Dummy
+42,Set OR,Kaos,9,75000,675000,5/18/2026,5/27/2026,Aktual,Selesai,9,Dummy
+43,Celana,Kaos,30,40000,1200000,5/18/2026,5/28/2026,Aktual,Selesai,10,Dummy
+44,Celana,Kaos,8,40000,320000,5/19/2026,5/24/2026,Aktual,Selesai,5,Dummy
+45,Atasan Polo,Jersey,4,90000,360000,5/19/2026,5/26/2026,Aktual,Selesai,7,Dummy
+46,Atasan,Jersey,30,85000,2550000,5/20/2026,5/31/2026,Aktual,Selesai,11,Dummy
+47,Celana,Kaos,12,40000,480000,5/20/2026,5/28/2026,Aktual,Selesai,8,Dummy
+48,Atasan Polo,Jersey,30,90000,2700000,5/20/2026,5/30/2026,Aktual,Selesai,10,Dummy
+49,Atasan Polo,Jersey,26,90000,2340000,5/21/2026,5/29/2026,Aktual,Selesai,8,Dummy
+50,Celana,Kaos,17,40000,680000,5/21/2026,5/30/2026,Aktual,Selesai,9,Dummy
+51,Set OR,Kaos,19,65000,1235000,5/21/2026,5/28/2026,Aktual,Selesai,7,Dummy
+52,Atasan Voli,Jersey,19,85000,1615000,5/22/2026,5/30/2026,Aktual,Selesai,8,Dummy
+53,Atasan,Jersey,20,85000,1700000,5/22/2026,5/30/2026,Aktual,Selesai,8,Dummy
+54,Set OR,Kaos,9,75000,675000,5/22/2026,5/27/2026,Aktual,Selesai,5,Dummy
+55,Atasan Polo,Jersey,12,90000,1080000,5/23/2026,6/2/2026,Aktual,Selesai,10,Dummy
+56,Celana,Kaos,7,40000,280000,5/24/2026,5/28/2026,Aktual,Selesai,4,Dummy
+57,Gamis,Katun,9,120000,1080000,5/24/2026,5/31/2026,Aktual,Selesai,7,Dummy
+58,Atasan Basket,Jersey,25,85000,2125000,5/24/2026,6/3/2026,Aktual,Selesai,10,Dummy
+59,Celana,Kaos,3,40000,120000,5/26/2026,5/30/2026,Aktual,Selesai,4,Dummy
+60,Atasan,Jersey,30,85000,2550000,5/27/2026,6/4/2026,Aktual,Selesai,8,Dummy
+61,Gamis,Katun,45,120000,5400000,5/27/2026,6/3/2026,Aktual,Selesai,7,Dummy
+62,Atasan Basket,Jersey,14,85000,1190000,5/27/2026,6/5/2026,Aktual,Selesai,9,Dummy
+63,Atasan Voli,Jersey,8,85000,680000,5/28/2026,6/4/2026,Aktual,Selesai,7,Dummy
+64,Atasan Polo,Jersey,7,90000,630000,5/28/2026,6/5/2026,Aktual,Selesai,8,Dummy
+65,Atasan Voli,Jersey,13,85000,1105000,5/28/2026,6/5/2026,Aktual,Selesai,8,Dummy
+66,Celana,Kaos,40,40000,1600000,5/29/2026,6/9/2026,Aktual,Selesai,11,Dummy
+67,Celana OR,Kaos,35,40000,1400000,5/29/2026,6/7/2026,Aktual,Selesai,9,Dummy
+68,Atasan,Jersey,14,85000,1190000,5/30/2026,6/7/2026,Aktual,Selesai,8,Dummy
+69,Atasan Polo,Kaos Lacoste,24,85000,2040000,5/31/2026,6/9/2026,Aktual,Selesai,9,Dummy
+70,Celana,Kaos,8,40000,320000,5/31/2026,6/7/2026,Aktual,Selesai,7,Dummy
+71,Set OR,Kaos,31,75000,2325000,6/1/2026,6/10/2026,Aktual,Selesai,9,Dummy
+72,Celana OR,Kaos,17,40000,680000,6/1/2026,6/8/2026,Aktual,Selesai,7,Dummy
+73,Atasan Basket,Jersey,5,85000,425000,6/1/2026,6/10/2026,Aktual,Selesai,9,Dummy
+74,Celana,Kaos,17,40000,680000,6/2/2026,6/10/2026,Aktual,Selesai,8,Dummy
+75,Gamis,Katun,24,120000,2880000,6/3/2026,6/10/2026,Aktual,Selesai,7,Dummy
+76,Set OR,Kaos,12,65000,780000,6/4/2026,6/13/2026,Aktual,Selesai,9,Dummy
+77,Celana,Kaos,11,40000,440000,6/5/2026,6/11/2026,Aktual,Selesai,6,Dummy
+78,Daster,Katun,26,55000,1430000,6/5/2026,6/14/2026,Aktual,Selesai,9,Dummy
+79,Atasan,Jersey,11,85000,935000,6/6/2026,6/16/2026,Aktual,Selesai,10,Dummy
+80,Atasan Voli,Jersey,10,85000,850000,6/8/2026,6/17/2026,Aktual,Selesai,9,Dummy
+81,Celana,Kaos,24,40000,960000,6/8/2026,6/14/2026,Aktual,Selesai,6,Dummy
+82,Celana,Kaos,14,40000,560000,6/8/2026,6/14/2026,Aktual,Selesai,6,Dummy
+83,Celana,Kaos,10,40000,400000,6/8/2026,6/16/2026,Aktual,Selesai,8,Dummy
+84,Celana,Kaos,7,40000,280000,5/31/2026,6/9/2026,Aktual,Selesai,9,Dummy
+85,Atasan Polo,Jersey,19,90000,1710000,6/12/2026,6/23/2026,Aktual,Selesai,11,Dummy
+86,Atasan Basket,Jersey,30,85000,2550000,6/12/2026,6/23/2026,Aktual,Selesai,11,Dummy
+87,Atasan,Jersey,19,85000,1615000,6/12/2026,6/20/2026,Aktual,Selesai,8,Dummy
+88,Atasan Basket,Jersey,19,85000,1615000,6/13/2026,6/23/2026,Aktual,Selesai,10,Dummy
+89,Atasan Voli,Jersey,14,85000,1190000,6/13/2026,6/22/2026,Aktual,Selesai,9,Dummy
+90,Celana,Kaos,7,40000,280000,6/13/2026,6/17/2026,Aktual,Selesai,4,Dummy
+91,Atasan Voli,Jersey,13,85000,1105000,6/14/2026,6/21/2026,Aktual,Selesai,7,Dummy
+92,Celana,Kaos,23,40000,920000,6/14/2026,6/21/2026,Aktual,Selesai,7,Dummy
+93,Atasan Basket,Jersey,10,85000,850000,6/15/2026,6/23/2026,Aktual,Selesai,8,Dummy
+94,Daster,Katun,35,55000,1925000,6/16/2026,6/24/2026,Aktual,Selesai,8,Dummy
+95,Atasan Basket,Jersey,70,85000,5950000,6/18/2026,7/4/2026,Aktual,Selesai,16,Dummy
+96,Celana,Kaos,16,40000,640000,6/19/2026,6/26/2026,Aktual,Selesai,7,Dummy
+97,Atasan,Jersey,12,85000,1020000,6/21/2026,6/27/2026,Aktual,Selesai,6,Dummy
+98,Celana,Kaos,16,40000,640000,6/21/2026,6/29/2026,Aktual,Selesai,8,Dummy
+99,Celana OR,Kaos,70,40000,2800000,6/22/2026,7/3/2026,Aktual,Selesai,11,Dummy
+100,Atasan Voli,Jersey,13,85000,1105000,6/22/2026,6/29/2026,Aktual,Selesai,7,Dummy
+101,Atasan Polo,Kaos Lacoste,14,85000,1190000,6/23/2026,7/2/2026,Aktual,Selesai,9,Dummy
+102,Atasan Basket,Jersey,13,85000,1105000,6/24/2026,7/5/2026,Aktual,Selesai,11,Dummy
+103,Celana OR,Kaos,12,40000,480000,6/26/2026,7/5/2026,Aktual,Selesai,9,Dummy
+104,Atasan Voli,Jersey,13,85000,1105000,6/27/2026,7/2/2026,Aktual,Selesai,5,Dummy
+105,Celana,Kaos,17,40000,680000,6/27/2026,7/3/2026,Aktual,Selesai,6,Dummy
+106,Set OR,Kaos,13,55000,715000,6/27/2026,7/3/2026,Aktual,Selesai,6,Dummy
+107,Atasan Voli,Jersey,24,85000,2040000,6/27/2026,7/7/2026,Aktual,Selesai,10,Dummy
+108,Atasan Voli,Jersey,14,85000,1190000,6/28/2026,7/4/2026,Aktual,Selesai,6,Dummy
+109,Celana OR,Kaos,26,40000,1040000,6/28/2026,7/9/2026,Aktual,Selesai,11,Dummy
+110,Celana,Kaos,70,40000,2800000,6/29/2026,7/14/2026,Aktual,Selesai,15,Dummy
+111,Atasan Polo,Jersey,23,90000,2070000,6/29/2026,7/7/2026,Aktual,Selesai,8,Dummy
+112,Gamis,Katun,9,120000,1080000,6/29/2026,7/9/2026,Aktual,Selesai,10,Dummy
+113,Celana,Kaos,10,40000,400000,6/29/2026,7/6/2026,Aktual,Selesai,7,Dummy
+114,Set OR,Kaos,14,55000,770000,6/30/2026,7/8/2026,Aktual,Selesai,8,Dummy
+115,Atasan Polo,Kaos Lacoste,22,85000,1870000,6/30/2026,7/8/2026,Aktual,Selesai,8,Dummy
+116,Celana OR,Kaos,12,40000,480000,7/1/2026,7/5/2026,Aktual,Selesai,4,Dummy
+117,Set OR,Kaos,24,55000,1320000,7/1/2026,7/9/2026,Aktual,Selesai,8,Dummy
+118,Atasan,Jersey,12,85000,1020000,7/1/2026,7/7/2026,Aktual,Selesai,6,Dummy
+119,Atasan,Jersey,16,85000,1360000,7/2/2026,7/11/2026,Aktual,Selesai,9,Dummy
+120,Celana,Kaos,7,40000,280000,7/2/2026,7/8/2026,Aktual,Selesai,6,Dummy
+121,Celana,Kaos,34,40000,1360000,7/3/2026,7/12/2026,Aktual,Selesai,9,Dummy
+122,Atasan Polo,Jersey,19,90000,1710000,7/4/2026,7/12/2026,Aktual,Selesai,8,Dummy
+123,Atasan Polo,Kaos Lacoste,12,85000,1020000,7/4/2026,7/14/2026,Aktual,Selesai,10,Dummy
+124,Celana,Kaos,8,40000,320000,7/5/2026,7/11/2026,Aktual,Selesai,6,Dummy
+125,Celana,Kaos,22,40000,880000,7/5/2026,7/13/2026,Aktual,Selesai,8,Dummy
+126,Celana,Kaos,37,40000,1480000,7/5/2026,7/16/2026,Aktual,Selesai,11,Dummy
+127,Daster,Katun,10,55000,550000,7/6/2026,7/14/2026,Aktual,Selesai,8,Dummy
+128,Atasan Voli,Jersey,45,85000,3825000,7/6/2026,7/19/2026,Aktual,Selesai,13,Dummy
+129,Atasan Voli,Jersey,57,85000,4845000,7/6/2026,7/19/2026,Aktual,Selesai,13,Dummy
+130,Atasan Polo,Kaos Lacoste,5,85000,425000,7/7/2026,7/18/2026,Aktual,Selesai,11,Dummy
+131,Celana,Kaos,12,40000,480000,7/10/2026,7/16/2026,Aktual,Selesai,6,Dummy
+132,Celana OR,Kaos,39,40000,1560000,7/10/2026,7/18/2026,Aktual,Selesai,8,Dummy
+133,Celana,Kaos,17,40000,680000,7/10/2026,7/15/2026,Aktual,Selesai,5,Dummy
+134,Atasan,Jersey,14,85000,1190000,7/10/2026,7/17/2026,Aktual,Selesai,7,Dummy
+135,Celana,Kaos,16,40000,640000,7/10/2026,7/18/2026,Aktual,Selesai,8,Dummy
+136,Celana,Kaos,39,40000,1560000,7/11/2026,7/22/2026,Aktual,Selesai,11,Dummy
+137,Gamis,Katun,23,120000,2760000,7/11/2026,7/20/2026,Aktual,Selesai,9,Dummy
+138,Atasan,Jersey,22,85000,1870000,7/11/2026,7/19/2026,Aktual,Selesai,8,Dummy
+139,Celana,Kaos,10,40000,400000,7/12/2026,7/16/2026,Aktual,Selesai,4,Dummy
+140,Set OR,Kaos,23,55000,1265000,7/14/2026,7/23/2026,Aktual,Selesai,9,Dummy
+141,Celana,Kaos,7,40000,280000,7/14/2026,7/20/2026,Aktual,Selesai,6,Dummy
+142,Atasan,Jersey,13,85000,1105000,7/7/2026,7/14/2026,Aktual,Selesai,7,Dummy
+143,Celana,Kaos,15,40000,600000,7/14/2026,7/21/2026,Aktual,Selesai,7,Dummy
+144,Celana OR,Kaos,15,40000,600000,7/14/2026,7/21/2026,Aktual,Selesai,7,Dummy
+145,Atasan Voli,Jersey,10,85000,850000,7/17/2026,7/25/2026,Aktual,Selesai,8,Dummy
+146,Atasan Polo,Jersey,9,90000,810000,7/18/2026,7/24/2026,Aktual,Selesai,6,Dummy
+147,Atasan Basket,Jersey,9,85000,765000,7/18/2026,7/28/2026,Aktual,Selesai,10,Dummy
+148,Celana,Kaos,43,40000,1720000,7/19/2026,7/31/2026,Aktual,Selesai,12,Dummy
+149,Daster,Katun,8,55000,440000,7/21/2026,7/27/2026,Aktual,Selesai,6,Dummy
+150,Celana,Kaos,12,40000,480000,7/22/2026,7/29/2026,Aktual,Selesai,7,Dummy
+151,Celana OR,Kaos,61,40000,2440000,7/23/2026,8/2/2026,Aktual,Selesai,10,Dummy
+152,Atasan,Jersey,9,85000,765000,7/23/2026,7/30/2026,Aktual,Selesai,7,Dummy
+153,Celana,Kaos,10,40000,400000,7/25/2026,8/1/2026,Aktual,Selesai,7,Dummy
+154,Atasan Polo,Jersey,15,90000,1350000,7/26/2026,8/6/2026,Aktual,Selesai,11,Dummy
+155,Celana,Kaos,37,40000,1480000,7/27/2026,8/3/2026,Aktual,Selesai,7,Dummy
+156,Set OR,Kaos,5,65000,325000,7/29/2026,8/2/2026,Aktual,Selesai,4,Dummy
+157,Atasan,Jersey,4,85000,340000,7/29/2026,8/7/2026,Aktual,Selesai,9,Dummy
+158,Celana,Kaos,8,40000,320000,7/29/2026,8/6/2026,Aktual,Selesai,8,Dummy
+159,Atasan,Jersey,37,85000,3145000,7/30/2026,8/12/2026,Aktual,Selesai,13,Dummy
+160,Atasan,Jersey,21,85000,1785000,7/30/2026,8/11/2026,Aktual,Selesai,12,Dummy
+161,Atasan,Jersey,15,85000,1275000,7/31/2026,8/8/2026,Aktual,Selesai,8,Dummy
+162,Celana,Kaos,6,40000,240000,8/2/2026,8/10/2026,Aktual,Selesai,8,Dummy
+163,Atasan,Jersey,10,85000,850000,8/2/2026,8/10/2026,Aktual,Selesai,8,Dummy
+164,Atasan Polo,Kaos Lacoste,6,85000,510000,7/26/2026,8/3/2026,Aktual,Selesai,8,Dummy
+165,Celana OR,Kaos,38,40000,1520000,8/4/2026,8/13/2026,Aktual,Selesai,9,Dummy
+166,Set OR,Kaos,5,75000,375000,8/4/2026,8/8/2026,Aktual,Selesai,4,Dummy
+167,Celana,Kaos,11,40000,440000,8/4/2026,8/10/2026,Aktual,Selesai,6,Dummy
+168,Atasan Polo,Jersey,10,90000,900000,8/5/2026,8/16/2026,Aktual,Selesai,11,Dummy
+169,Celana OR,Kaos,23,40000,920000,8/7/2026,8/14/2026,Aktual,Selesai,7,Dummy
+170,Atasan,Jersey,19,85000,1615000,8/7/2026,8/15/2026,Aktual,Selesai,8,Dummy
+171,Gamis,Katun,10,120000,1200000,8/8/2026,8/12/2026,Aktual,Selesai,4,Dummy
+172,Atasan,Jersey,11,85000,935000,8/9/2026,8/17/2026,Aktual,Selesai,8,Dummy
+173,Celana OR,Kaos,41,40000,1640000,8/9/2026,8/21/2026,Aktual,Selesai,12,Dummy
+174,Atasan Basket,Jersey,11,85000,935000,8/9/2026,8/16/2026,Aktual,Selesai,7,Dummy
+175,Set OR,Kaos,8,75000,600000,8/9/2026,8/17/2026,Aktual,Selesai,8,Dummy
+176,Set OR,Kaos,15,65000,975000,8/10/2026,8/16/2026,Aktual,Selesai,6,Dummy
+177,Atasan Polo,Jersey,24,90000,2160000,8/13/2026,8/24/2026,Aktual,Selesai,11,Dummy
+178,Set OR,Kaos,19,75000,1425000,8/14/2026,8/24/2026,Aktual,Selesai,10,Dummy
+179,Atasan,Jersey,29,85000,2465000,8/14/2026,8/21/2026,Aktual,Selesai,7,Dummy
+180,Celana,Kaos,5,40000,200000,8/14/2026,8/21/2026,Aktual,Selesai,7,Dummy
+181,Celana,Kaos,23,40000,920000,8/15/2026,8/20/2026,Aktual,Selesai,5,Dummy
+182,Celana OR,Kaos,6,40000,240000,8/17/2026,8/24/2026,Aktual,Selesai,7,Dummy
+183,Atasan,Jersey,4,85000,340000,8/19/2026,8/26/2026,Aktual,Selesai,7,Dummy
+184,Celana,Kaos,54,40000,2160000,8/20/2026,8/31/2026,Aktual,Selesai,11,Dummy
+185,Atasan,Jersey,28,85000,2380000,8/20/2026,8/27/2026,Aktual,Selesai,7,Dummy
+186,Atasan Polo,Kaos Lacoste,10,85000,850000,8/20/2026,8/31/2026,Aktual,Selesai,11,Dummy
+187,Celana OR,Kaos,21,40000,840000,8/20/2026,8/29/2026,Aktual,Selesai,9,Dummy
+188,Daster,Katun,24,55000,1320000,8/20/2026,8/30/2026,Aktual,Selesai,10,Dummy
+189,Celana,Kaos,7,40000,280000,8/20/2026,8/27/2026,Aktual,Selesai,7,Dummy
+190,Atasan Polo,Kaos Lacoste,12,85000,1020000,8/21/2026,8/26/2026,Aktual,Selesai,5,Dummy
+191,Atasan Polo,Jersey,43,90000,3870000,8/22/2026,9/4/2026,Aktual,Selesai,13,Dummy
+192,Celana,Kaos,3,40000,120000,8/23/2026,8/29/2026,Aktual,Selesai,6,Dummy
+193,Daster,Katun,18,55000,990000,8/24/2026,9/1/2026,Aktual,Selesai,8,Dummy
+194,Celana,Kaos,17,40000,680000,8/26/2026,9/3/2026,Aktual,Selesai,8,Dummy
+195,Set OR,Kaos,15,55000,825000,8/26/2026,9/2/2026,Aktual,Selesai,7,Dummy
+196,Atasan Basket,Jersey,5,85000,425000,8/27/2026,9/4/2026,Aktual,Selesai,8,Dummy
+197,Atasan Voli,Jersey,29,85000,2465000,8/28/2026,9/6/2026,Aktual,Selesai,9,Dummy
+198,Celana,Kaos,12,40000,480000,8/29/2026,9/5/2026,Aktual,Selesai,7,Dummy
+199,Atasan Polo,Kaos Lacoste,26,85000,2210000,8/29/2026,9/7/2026,Aktual,Selesai,9,Dummy
+200,Celana,Kaos,13,40000,520000,8/30/2026,9/7/2026,Aktual,Selesai,8,Dummy
+201,Atasan,Jersey,8,85000,680000,8/30/2026,9/3/2026,Aktual,Selesai,4,Dummy
+202,Celana,Kaos,8,40000,320000,8/31/2026,9/7/2026,Aktual,Selesai,7,Dummy
+203,Atasan Polo,Jersey,30,90000,2700000,8/31/2026,9/9/2026,Aktual,Selesai,9,Dummy
+204,Atasan Voli,Jersey,39,85000,3315000,9/2/2026,9/14/2026,Aktual,Selesai,12,Dummy
+205,Celana OR,Kaos,16,40000,640000,9/2/2026,9/8/2026,Aktual,Selesai,6,Dummy
+206,Atasan,Jersey,12,85000,1020000,9/2/2026,9/10/2026,Aktual,Selesai,8,Dummy
+207,Celana OR,Kaos,18,40000,720000,9/5/2026,9/11/2026,Aktual,Selesai,6,Dummy
+208,Atasan,Jersey,25,85000,2125000,9/5/2026,9/16/2026,Aktual,Selesai,11,Dummy
+209,Atasan Polo,Jersey,7,90000,630000,9/6/2026,9/15/2026,Aktual,Selesai,9,Dummy
+210,Celana,Kaos,17,40000,680000,9/7/2026,9/13/2026,Aktual,Selesai,6,Dummy
+211,Set OR,Kaos,7,75000,525000,9/8/2026,9/15/2026,Aktual,Selesai,7,Dummy
+212,Celana,Kaos,19,40000,760000,9/9/2026,9/14/2026,Aktual,Selesai,5,Dummy
+213,Atasan,Jersey,25,85000,2125000,9/10/2026,9/14/2026,Aktual,Selesai,4,Dummy
+214,Celana OR,Kaos,31,40000,1240000,9/1/2026,9/10/2026,Aktual,Selesai,9,Dummy
+215,Celana,Kaos,7,40000,280000,9/10/2026,9/17/2026,Aktual,Selesai,7,Dummy
+216,Set OR,Kaos,24,65000,1560000,9/11/2026,9/19/2026,Aktual,Selesai,8,Dummy
+217,Celana,Kaos,12,40000,480000,9/12/2026,9/18/2026,Aktual,Selesai,6,Dummy
+218,Celana OR,Kaos,17,40000,680000,9/13/2026,9/17/2026,Aktual,Selesai,4,Dummy
+219,Atasan,Jersey,9,85000,765000,9/16/2026,9/26/2026,Aktual,Selesai,10,Dummy
+220,Atasan,Jersey,41,85000,3485000,9/16/2026,9/29/2026,Aktual,Selesai,13,Dummy
+221,Atasan Basket,Jersey,8,85000,680000,9/16/2026,9/23/2026,Aktual,Selesai,7,Dummy
+222,Set OR,Kaos,5,75000,375000,9/17/2026,9/22/2026,Aktual,Selesai,5,Dummy
+223,Celana,Kaos,12,40000,480000,9/18/2026,9/23/2026,Aktual,Selesai,5,Dummy
+224,Atasan Polo,Kaos Lacoste,14,85000,1190000,9/18/2026,9/26/2026,Aktual,Selesai,8,Dummy
+225,Celana OR,Kaos,10,40000,400000,9/18/2026,9/27/2026,Aktual,Selesai,9,Dummy
+226,Atasan,Jersey,13,85000,1105000,9/19/2026,9/27/2026,Aktual,Selesai,8,Dummy
+227,Atasan,Jersey,24,85000,2040000,9/19/2026,10/1/2026,Aktual,Selesai,12,Dummy
+228,Celana,Kaos,9,40000,360000,9/19/2026,9/24/2026,Aktual,Selesai,5,Dummy
+229,Gamis,Katun,17,120000,2040000,9/20/2026,9/28/2026,Aktual,Selesai,8,Dummy
+230,Set OR,Kaos,8,75000,600000,9/20/2026,9/25/2026,Aktual,Selesai,5,Dummy
+231,Set OR,Kaos,8,65000,520000,9/21/2026,9/26/2026,Aktual,Selesai,5,Dummy
+232,Atasan Polo,Jersey,11,90000,990000,9/22/2026,9/29/2026,Aktual,Selesai,7,Dummy
+233,Atasan Polo,Kaos Lacoste,20,85000,1700000,9/22/2026,10/3/2026,Aktual,Selesai,11,Dummy
+234,Set OR,Kaos,16,55000,880000,9/22/2026,9/30/2026,Aktual,Selesai,8,Dummy
+235,Set OR,Kaos,8,65000,520000,9/23/2026,10/1/2026,Aktual,Selesai,8,Dummy
+236,Atasan,Jersey,30,85000,2550000,9/24/2026,10/8/2026,Aktual,Selesai,14,Dummy
+237,Atasan Polo,Jersey,32,90000,2880000,9/24/2026,10/5/2026,Aktual,Selesai,11,Dummy
+238,Set OR,Kaos,12,65000,780000,9/26/2026,9/30/2026,Aktual,Selesai,4,Dummy
+239,Celana,Kaos,5,40000,200000,9/26/2026,9/30/2026,Aktual,Selesai,4,Dummy
+240,Atasan Basket,Jersey,5,85000,425000,9/27/2026,10/6/2026,Aktual,Selesai,9,Dummy
+241,Gamis,Katun,11,120000,1320000,9/28/2026,10/7/2026,Aktual,Selesai,9,Dummy
+242,Celana,Kaos,19,40000,760000,9/28/2026,10/3/2026,Aktual,Selesai,5,Dummy
+243,Atasan Voli,Jersey,13,85000,1105000,9/30/2026,10/8/2026,Aktual,Selesai,8,Dummy
+244,Celana OR,Kaos,41,40000,1640000,9/30/2026,10/9/2026,Aktual,Selesai,9,Dummy
+245,Atasan Basket,Jersey,10,85000,850000,10/1/2026,10/8/2026,Aktual,Selesai,7,Dummy
+246,Atasan Voli,Jersey,14,85000,1190000,10/1/2026,10/9/2026,Aktual,Selesai,8,Dummy
+247,Daster,Katun,12,55000,660000,10/1/2026,10/11/2026,Aktual,Selesai,10,Dummy
+248,Atasan,Jersey,21,85000,1785000,10/2/2026,10/10/2026,Aktual,Selesai,8,Dummy
+249,Celana OR,Kaos,8,40000,320000,10/3/2026,10/7/2026,Aktual,Selesai,4,Dummy
+250,Celana,Kaos,16,40000,640000,10/3/2026,10/10/2026,Aktual,Selesai,7,Dummy
+251,Celana,Kaos,33,40000,1320000,10/4/2026,10/13/2026,Aktual,Selesai,9,Dummy
+252,Atasan,Jersey,31,85000,2635000,10/5/2026,10/16/2026,Aktual,Selesai,11,Dummy
+253,Atasan Voli,Jersey,26,85000,2210000,10/5/2026,10/15/2026,Aktual,Selesai,10,Dummy
+254,Set OR,Kaos,3,65000,195000,10/6/2026,10/12/2026,Aktual,Selesai,6,Dummy
+255,Atasan,Jersey,8,85000,680000,10/6/2026,10/12/2026,Aktual,Selesai,6,Dummy
+256,Atasan Polo,Jersey,7,90000,630000,10/9/2026,10/15/2026,Aktual,Selesai,6,Dummy
+257,Celana OR,Kaos,15,40000,600000,10/11/2026,10/18/2026,Aktual,Selesai,7,Dummy
+258,Atasan,Jersey,10,85000,850000,10/11/2026,10/20/2026,Aktual,Selesai,9,Dummy
+259,Atasan,Jersey,25,85000,2125000,10/11/2026,10/20/2026,Aktual,Selesai,9,Dummy
+260,Celana,Kaos,39,40000,1560000,10/12/2026,10/20/2026,Aktual,Selesai,8,Dummy
+261,Atasan Basket,Jersey,13,85000,1105000,10/13/2026,10/19/2026,Aktual,Selesai,6,Dummy
+262,Celana,Kaos,24,40000,960000,10/14/2026,10/20/2026,Aktual,Selesai,6,Dummy
+263,Set OR,Kaos,7,55000,385000,10/14/2026,10/20/2026,Aktual,Selesai,6,Dummy
+264,Atasan Voli,Jersey,8,85000,680000,10/14/2026,10/24/2026,Aktual,Selesai,10,Dummy
+265,Atasan Polo,Kaos Lacoste,15,85000,1275000,10/15/2026,10/25/2026,Aktual,Selesai,10,Dummy
+266,Celana,Kaos,10,40000,400000,10/15/2026,10/21/2026,Aktual,Selesai,6,Dummy
+267,Daster,Katun,6,55000,330000,10/16/2026,10/23/2026,Aktual,Selesai,7,Dummy
+268,Gamis,Katun,19,120000,2280000,10/16/2026,10/20/2026,Aktual,Selesai,4,Dummy
+269,Set OR,Kaos,12,55000,660000,10/17/2026,10/25/2026,Aktual,Selesai,8,Dummy
+270,Celana,Kaos,40,40000,1600000,10/17/2026,10/24/2026,Aktual,Selesai,7,Dummy
+271,Atasan Polo,Jersey,19,90000,1710000,10/18/2026,10/27/2026,Aktual,Selesai,9,Dummy
+272,Daster,Katun,26,55000,1430000,10/18/2026,10/27/2026,Aktual,Selesai,9,Dummy
+273,Celana,Kaos,12,40000,480000,10/19/2026,10/26/2026,Aktual,Selesai,7,Dummy
+274,Celana,Kaos,18,40000,720000,10/19/2026,10/26/2026,Aktual,Selesai,7,Dummy
+275,Atasan Voli,Jersey,13,85000,1105000,10/20/2026,11/1/2026,Aktual,Selesai,12,Dummy
+276,Atasan Polo,Kaos Lacoste,12,85000,1020000,10/22/2026,10/31/2026,Aktual,Selesai,9,Dummy
+277,Atasan,Jersey,23,85000,1955000,10/22/2026,11/3/2026,Aktual,Selesai,12,Dummy
+278,Atasan Basket,Jersey,8,85000,680000,10/23/2026,10/30/2026,Aktual,Selesai,7,Dummy
+279,Set OR,Kaos,13,75000,975000,10/24/2026,10/30/2026,Aktual,Selesai,6,Dummy
+280,Celana,Kaos,36,40000,1440000,10/25/2026,11/2/2026,Aktual,Selesai,8,Dummy
+281,Atasan Basket,Jersey,18,85000,1530000,10/25/2026,11/4/2026,Aktual,Selesai,10,Dummy
+282,Set OR,Kaos,14,75000,1050000,10/25/2026,10/30/2026,Aktual,Selesai,5,Dummy
+283,Atasan Polo,Jersey,9,90000,810000,10/25/2026,10/31/2026,Aktual,Selesai,6,Dummy
+284,Atasan,Jersey,15,85000,1275000,10/26/2026,11/5/2026,Aktual,Selesai,10,Dummy
+285,Celana,Kaos,22,40000,880000,10/27/2026,11/2/2026,Aktual,Selesai,6,Dummy
+286,Atasan,Jersey,8,85000,680000,10/27/2026,11/5/2026,Aktual,Selesai,9,Dummy
+287,Atasan,Jersey,7,85000,595000,10/29/2026,11/3/2026,Aktual,Selesai,5,Dummy
+288,Atasan,Jersey,20,85000,1700000,10/30/2026,11/8/2026,Aktual,Selesai,9,Dummy
+289,Atasan Polo,Jersey,6,90000,540000,10/30/2026,11/9/2026,Aktual,Selesai,10,Dummy
+290,Set OR,Kaos,24,75000,1800000,10/31/2026,11/7/2026,Aktual,Selesai,7,Dummy
+291,Celana,Kaos,10,40000,400000,11/1/2026,11/7/2026,Aktual,Selesai,6,Dummy
+292,Atasan Polo,Kaos Lacoste,15,85000,1275000,11/2/2026,11/11/2026,Aktual,Selesai,9,Dummy
+293,Daster,Katun,9,55000,495000,11/3/2026,11/11/2026,Aktual,Selesai,8,Dummy
+294,Atasan Polo,Jersey,11,90000,990000,11/3/2026,11/10/2026,Aktual,Selesai,7,Dummy
+295,Celana OR,Kaos,17,40000,680000,11/4/2026,11/9/2026,Aktual,Selesai,5,Dummy
+296,Set OR,Kaos,7,65000,455000,11/4/2026,11/11/2026,Aktual,Selesai,7,Dummy
+297,Atasan Polo,Jersey,24,90000,2160000,11/4/2026,11/15/2026,Aktual,Selesai,11,Dummy
+298,Daster,Katun,16,55000,880000,11/5/2026,11/13/2026,Aktual,Selesai,8,Dummy
+299,Atasan,Jersey,8,85000,680000,11/6/2026,11/13/2026,Aktual,Selesai,7,Dummy
+300,Celana,Kaos,42,40000,1680000,11/6/2026,11/14/2026,Aktual,Selesai,8,Dummy
+301,Gamis,Katun,6,120000,720000,11/6/2026,11/11/2026,Aktual,Selesai,5,Dummy
+302,Atasan Polo,Jersey,14,90000,1260000,11/6/2026,11/17/2026,Aktual,Selesai,11,Dummy
+303,Celana,Kaos,18,40000,720000,11/6/2026,11/14/2026,Aktual,Selesai,8,Dummy
+304,Atasan,Jersey,28,85000,2380000,11/7/2026,11/15/2026,Aktual,Selesai,8,Dummy
+305,Set OR,Kaos,12,55000,660000,11/8/2026,11/16/2026,Aktual,Selesai,8,Dummy
+306,Atasan Voli,Jersey,17,85000,1445000,11/9/2026,11/19/2026,Aktual,Selesai,10,Dummy
+307,Set OR,Kaos,9,75000,675000,11/9/2026,11/18/2026,Aktual,Selesai,9,Dummy
+308,Atasan Basket,Jersey,8,85000,680000,11/10/2026,11/16/2026,Aktual,Selesai,6,Dummy
