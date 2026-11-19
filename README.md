@@ -79,7 +79,7 @@ Yang dikerjakan:
 ### 💻 Tim Full-Stack
 Membuat aplikasi web yang dipakai Ibu Dintje, dari tampilan sampai server.
 
-#### 🧑‍💻 Tengku: Full-Stack
+#### 🧑‍💻 Farkhan: Full-Stack
 Yang dikerjakan:
 -
 
