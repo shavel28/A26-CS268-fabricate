@@ -21,8 +21,8 @@ Fabricate adalah aplikasi web untuk UMKM **Ageng Konveksi** (Ibu Dintje, Kota Ke
 ```
 fabricate/
 ├── README.md
-├── data/            # file data (nota, data sampel, kamus data)
-├── data_science/    # kode analisis, model, dan dasbor
+├── data/            # data mentah dan hasil pemrosesan data
+├── data_science/    # kode analisis, model, dasbor, beserta data yang dipakainya
 ├── ai/              # model AI, API, dan fitur draf caption promosi
 └── web/
     ├── frontend/    # tampilan aplikasi
@@ -31,8 +31,8 @@ fabricate/
 
 | Folder | Isinya | Dikerjakan oleh |
 |---|---|---|
-| `data/` | Data mentah dan data bersih, kamus data | Tim Data Science |
-| `data_science/` | Analisis, perbandingan model, dasbor Streamlit | Tim Data Science |
+| `data/` | Data mentah dan hasil pemrosesan data | Tim Data Science (Varel) |
+| `data_science/` | Analisis, perbandingan model, dasbor Streamlit, dan data yang dipakainya (dataset bersih, foto nota, kamus data) | Tim Data Science (Shava) |
 | `ai/` | Model yang dipakai aplikasi, API model, draf caption | Tim AI |
 | `web/frontend/` | Halaman dan tampilan yang dilihat pengguna | Tim Full-Stack |
 | `web/backend/` | Server, basis data, dan penghubung ke model | Tim Full-Stack |
