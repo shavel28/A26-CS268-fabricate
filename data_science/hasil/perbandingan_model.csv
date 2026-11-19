@@ -1,0 +1,5 @@
+model,MAE_hari,n_uji
+Baseline median,1.98,24
+Median per ukuran pesanan,1.81,24
+Regresi Linear,2.52,24
+Random Forest,2.16,24

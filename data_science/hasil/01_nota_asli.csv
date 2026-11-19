@@ -1,0 +1,25 @@
+no,nama_produk,kategori,jumlah,harga_satuan,total_harga,tanggal_pesan,tanggal_selesai,jenis_tanggal_selesai,status,lama_hari,sumber_data
+1,Set OR,Kaos,42,75000,3150000,2026-08-18,2026-09-02,Aktual,Selesai,15,Asli
+2,Set OR,Kaos,20,75000,1500000,2026-08-20,2026-09-03,Aktual,Selesai,14,Asli
+3,Atasan,Jersey,11,85000,935000,2026-08-25,2026-09-05,Aktual,Selesai,11,Asli
+4,Atasan,Jersey,8,85000,680000,2026-08-30,2026-09-07,Aktual,Selesai,8,Asli
+5,Set OR,Kaos,20,55000,1100000,2026-08-30,2026-09-10,Aktual,Selesai,11,Asli
+6,Atasan,Jersey,7,85000,595000,2026-09-01,2026-09-10,Aktual,Selesai,9,Asli
+7,Atasan Polo,Kaos Lacoste,10,85000,850000,2026-09-02,2026-09-12,Aktual,Selesai,10,Asli
+8,Celana OR,Kaos,14,40000,560000,2026-09-05,2026-09-14,Aktual,Selesai,9,Asli
+9,Atasan Voli,Jersey,11,85000,935000,2026-09-06,2026-09-16,Aktual,Selesai,10,Asli
+10,Atasan Polo,Kaos Lacoste,12,85000,1020000,2026-09-13,2026-09-23,Aktual,Selesai,10,Asli
+11,Atasan Polo,Jersey,19,90000,1710000,2026-09-16,2026-09-26,Aktual,Selesai,10,Asli
+12,Celana,Kaos,21,40000,840000,2026-09-20,2026-09-30,Aktual,Selesai,10,Asli
+13,Atasan Polo,Jersey,21,90000,1890000,2026-09-25,2026-10-05,Aktual,Selesai,10,Asli
+14,Atasan,Jersey,26,85000,2210000,2026-09-28,2026-10-13,Aktual,Selesai,15,Asli
+15,Atasan,Jersey,23,85000,1955000,2026-09-29,2026-10-15,Aktual,Selesai,16,Asli
+16,Celana,Kaos,18,40000,720000,2026-09-30,2026-10-16,Aktual,Selesai,16,Asli
+17,Atasan,Jersey,1,85000,85000,2026-09-30,2026-10-06,Aktual,Selesai,6,Asli
+18,Celana,Kaos,16,40000,640000,2026-10-05,2026-10-18,Aktual,Selesai,13,Asli
+19,Celana,Kaos,29,40000,1160000,2026-10-07,2026-10-19,Aktual,Selesai,12,Asli
+20,Daster,Katun,2,55000,110000,2026-10-08,2026-10-20,Aktual,Selesai,12,Asli
+21,Atasan Basket,Jersey,12,85000,1020000,2026-10-10,2026-10-22,Aktual,Selesai,12,Asli
+22,Celana,Kaos,25,40000,1000000,2026-10-12,2026-10-24,Aktual,Selesai,12,Asli
+23,Atasan,Jersey,109,85000,9265000,2026-10-15,2026-10-28,Aktual,Selesai,13,Asli
+24,Gamis,Katun,2,120000,240000,2026-10-16,2026-10-29,Aktual,Selesai,13,Asli

@@ -1,0 +1,21 @@
+﻿Bagian,Nama kolom,Tipe,Arti,Contoh,Catatan pemakaian
+Dataset nota,no,Bilangan bulat,Nomor urut baris di berkas,"1, 2, 3","Hanya penomoran, tidak dipakai model"
+Dataset nota,nama_produk,Teks,Nama barang di nota (9 nama berbeda),"Set OR, Atasan",Tidak dipakai model; dipakai kategori untuk mengelompokkan
+Dataset nota,kategori,Teks,"Kelompok produk: Jersey, Kaos, Kaos Lacoste, Katun",Kaos,Dipakai analisis dan model (diubah menjadi kolom 0/1)
+Dataset nota,jumlah,Bilangan bulat,Banyaknya pcs dalam satu pesanan (1 sampai 109 pada data asli),42,Fitur utama model estimasi
+Dataset nota,harga_satuan,Bilangan bulat (Rp),Harga per pcs dalam rupiah (40.000 sampai 120.000 pada data asli),75000,Dipakai untuk nilai pesanan di dasbor
+Dataset nota,total_harga,Bilangan bulat (Rp),"Nilai satu pesanan, yaitu jumlah dikali harga satuan",3150000,Dipakai untuk produk terlaris dan total nilai
+Dataset nota,tanggal_pesan,Tanggal,Tanggal pelanggan memesan. Di berkas bawaan tertulis bulan/tanggal/tahun,8/18/2026,Awal hitungan lama pengerjaan
+Dataset nota,tanggal_selesai,Tanggal,Tanggal pesanan selesai; kosong jika belum selesai,9/2/2026,Akhir hitungan lama pengerjaan
+Dataset nota,jenis_tanggal_selesai,Teks,Aktual = tanggal selesai benar-benar terjadi,Aktual,Semua baris saat ini Aktual
+Dataset nota,status,Teks,Selesai atau Proses,Selesai,Dasbor memakai ini untuk filter; model hanya memakai yang Selesai
+Dataset nota,lama_hari,Bilangan bulat (hari),Lama pengerjaan = tanggal_selesai dikurangi tanggal_pesan,15,Target yang diprediksi (6 sampai 16 hari pada data asli)
+Dataset nota,sumber_data,Teks,Asli = dari nota Ibu Dintje (24 baris). Dummy = data buatan untuk uji kode (284 baris),Asli,Hanya Asli untuk hasil dan klaim
+Fitur model,jumlah,Bilangan bulat,Sama dengan kolom jumlah di atas,42,"Dipakai Regresi Linear, Random Forest, dan model median per ukuran"
+Fitur model,"kategori_Jersey, kategori_Kaos, kategori_Kaos Lacoste, kategori_Katun",0 atau 1,Hasil one-hot dari kategori; 1 berarti pesanan itu produk tersebut,kategori_Kaos = 1,Dibuat di langkah 3 (get_dummies)
+Isi model_estimasi.joblib,jenis,Teks,"Jenis model yang menang di langkah 4, misal median_ukuran",median_ukuran,Cek dulu sebelum memakai file ini
+Isi model_estimasi.joblib,batas,Bilangan bulat,Batas pcs antara pesanan kecil dan besar,15,"Dipilih dari data yang sama (24 nota), perlu dikonfirmasi data baru"
+Isi model_estimasi.joblib,median_kecil / median_besar,Angka (hari),Median lama pengerjaan pesanan 15 pcs ke bawah / di atas 15 pcs,10.0 / 13.0,Saran tenggat
+Isi model_estimasi.joblib,kisaran_kecil / kisaran_besar,Dua angka (hari),Kuartil 1 dan kuartil 3 lama pengerjaan tiap kelompok ukuran,"[9.0, 11.5] / [11.0, 15.0]",Ditampilkan sebagai Biasanya antara a-b hari
+Isi model_estimasi.joblib,median_per_produk,Kamus produk ke hari,"Median lama pengerjaan tiap produk, sebagai pembanding","Jersey 10, Kaos 12",Ditampilkan sebagai Pembanding menurut produk
+Isi model_estimasi.joblib,median_global,Angka (hari),Median semua nota; cadangan kalau produk tidak dikenal,11.5,Cadangan
